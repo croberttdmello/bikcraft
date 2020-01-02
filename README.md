@@ -16,29 +16,29 @@
 
 
 ## 
-   <p align="center"><img src="./github-files/image1.png" alt="Bikcraft Menu" width="400"> </p>
+   <p align="center"><img src="./files-readme/image1.png" alt="Bikcraft Menu" width="400"> </p>
 
 ## 
-  <p align="center"><img src="./github-files/image2.png" alt="Bikcraft Produtos" width="400"></p> 
+  <p align="center"><img src="./files-readme/image2.png" alt="Bikcraft Produtos" width="400"></p> 
 
 ## 
-  <p align="center"><img src="./github-files/image3.png" alt="Bikcraft Qualidade" width="400"></p> 
+  <p align="center"><img src="./files-readme/image3.png" alt="Bikcraft Qualidade" width="400"></p> 
   
 ## 
-  <p align="center"><img src="./github-files/image4.png" alt="Bikcraft Formulário" width="400"></p>
+  <p align="center"><img src="./files-readme/image4.png" alt="Bikcraft Formulário" width="400"></p>
 
 ## 
-  <p align="center"><img src="./github-files/image5.png" alt="Bikcraft Footer" width="400"></p>
+  <p align="center"><img src="./files-readme/image5.png" alt="Bikcraft Footer" width="400"></p>
 
 ## Features
 
-  <img src="./github-files/html5.png" alt="Icon HTML5" width="20"> HTML5 
+  <img src="./files-readme/html5.png" alt="Icon HTML5" width="20"> HTML5 
 <br>
 
-   <img src="./github-files/css3.png" alt="Icon CSS3" width="20"> CSS3
+   <img src="./files-readme/css3.png" alt="Icon CSS3" width="20"> CSS3
 <br>
 
-  <img src="./github-files/js.png" alt="Icon JavaScript" width="20"> JavaScript
+  <img src="./files-readme/js.png" alt="Icon JavaScript" width="20"> JavaScript
 <br>
 
 
