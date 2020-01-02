@@ -32,13 +32,13 @@
 
 ## Features
 
-  <img src="./files-readme/html5.png" alt="Icon HTML5" width="8"> HTML5 
+  <img src="./files-readme/html5.png" alt="Icon HTML5" width="10"> HTML5 
 <br>
 
-   <img src="./files-readme/css3.png" alt="Icon CSS3" width="8"> CSS3
+   <img src="./files-readme/css3.png" alt="Icon CSS3" width="10"> CSS3
 <br>
 
-  <img src="./files-readme/js.png" alt="Icon JavaScript" width="8"> JavaScript
+  <img src="./files-readme/js.png" alt="Icon JavaScript" width="10"> JavaScript
 <br>
 
 
