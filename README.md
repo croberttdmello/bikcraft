@@ -30,7 +30,7 @@
 ## 
   <p align="center"><img src="./files-readme/image5.png" alt="Bikcraft Footer" width="400"></p>
 
-## Features
+## Tools
 
   <img src="./files-readme/html5.png" alt="Icon HTML5" width="10"> HTML5 
 <br>
