@@ -16,19 +16,19 @@
 
 
 ## 
-   <p align="center"><img src="./files-readme/image1.png" alt="Bikcraft Menu" width="400"> </p>
+   <p align="center"><img src="./files-readme/image1.png" alt="Bikcraft Menu" width="100%"> </p>
 
 ## 
-  <p align="center"><img src="./files-readme/image2.png" alt="Bikcraft Produtos" width="400"></p> 
+  <p align="center"><img src="./files-readme/image2.png" alt="Bikcraft Produtos" width="100%"></p> 
 
 ## 
-  <p align="center"><img src="./files-readme/image3.png" alt="Bikcraft Qualidade" width="400"></p> 
+  <p align="center"><img src="./files-readme/image3.png" alt="Bikcraft Qualidade" width="100%"></p> 
   
 ## 
-  <p align="center"><img src="./files-readme/image4.png" alt="Bikcraft Formulário" width="400"></p>
+  <p align="center"><img src="./files-readme/image4.png" alt="Bikcraft Formulário" width="100%"></p>
 
 ## 
-  <p align="center"><img src="./files-readme/image5.png" alt="Bikcraft Footer" width="400"></p>
+  <p align="center"><img src="./files-readme/image5.png" alt="Bikcraft Footer" width="100$"></p>
 
 ## Features
 
