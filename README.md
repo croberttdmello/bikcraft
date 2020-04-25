@@ -6,7 +6,7 @@
   Bikcraft
 </h1>
 
-<p align="center">Bikcraft - Site responsivo construído com HTML5, CSS3 e JavaScript sem adição de framework. </p>
+<p align="center">Bikcraft - Responsive website built with HTML5, CSS3 and JavaScript without adding framework. </p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -30,7 +30,7 @@
 ## 
   <p align="center"><img src="./files-readme/image5.png" alt="Bikcraft Footer" width="100$"></p>
 
-## Features
+## Tools
 
   <img src="./files-readme/html5.png" alt="Icon HTML5" width="10"> HTML5 
 <br>
