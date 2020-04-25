@@ -28,17 +28,17 @@
   <p align="center"><img src="./files-readme/image4.png" alt="Bikcraft Formulário" width="100%"></p>
 
 ## 
-  <p align="center"><img src="./files-readme/image5.png" alt="Bikcraft Footer" width="100$"></p>
+  <p align="center"><img src="./files-readme/image5.png" alt="Bikcraft Footer" width="100%"></p>
 
 ## Tools
 
-  <img src="./files-readme/html5.png" alt="Icon HTML5" width="10"> HTML5 
+  <img src="./files-readme/html5.png" alt="Icon HTML5" width="15"> HTML5 
 <br>
 
-   <img src="./files-readme/css3.png" alt="Icon CSS3" width="10"> CSS3
+   <img src="./files-readme/css3.png" alt="Icon CSS3" width="15"> CSS3
 <br>
 
-  <img src="./files-readme/js.png" alt="Icon JavaScript" width="10"> JavaScript
+  <img src="./files-readme/js.png" alt="Icon JavaScript" width="15"> JavaScript
 <br>
 
 
