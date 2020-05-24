@@ -41,6 +41,10 @@
   <img src="./files-readme/js.png" alt="Icon JavaScript" width="15"> JavaScript
 <br>
 
+## Project status 
+
+<p>Complete!</p>
+
 
 ## License
 
